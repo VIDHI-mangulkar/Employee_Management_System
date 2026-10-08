@@ -229,6 +229,9 @@ Contains the styling and responsive design of the application.
 
 #  How to Run the Project
 
+localhost  :  http://localhost:5173/
+Running on http://127.0.0.1:5000
+
 ## Prerequisites
 
 Before running the project, make sure the following are installed:
@@ -431,31 +434,6 @@ Through this project, the following concepts were learned and implemented:
 
 ---
 
-#  Future Enhancements
-
-The application can be further improved by adding:
-
-* User login and authentication
-* Admin and employee roles
-* Employee profile pages
-* Employee photo upload
-* Department-wise filtering
-* Salary sorting
-* Pagination
-* Export employee data to CSV or Excel
-* Dashboard with employee statistics
-* Cloud database integration
-* Deployment to a cloud platform
-
----
-
-# 👩 Author
-
-**Vidhi Mangulkar**
-
-**Project:** Employee Management System
-**Type:** Individual Teacher Assessment Project
-**Technology:** HTML, CSS, JavaScript, Flask, SQLite
 
 
 
