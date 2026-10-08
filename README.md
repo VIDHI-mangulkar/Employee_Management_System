@@ -229,7 +229,7 @@ Contains the styling and responsive design of the application.
 
 #  How to Run the Project
 
-localhost  :  http://localhost:5173/
+localhost  :  http://localhost:5173/ 
 Running on http://127.0.0.1:5000
 
 ## Prerequisites
@@ -333,7 +333,7 @@ Open this URL in your browser.
 
 ---
 
-# 🧪 Testing
+# Testing
 
 The application was tested for the following operations:
 
